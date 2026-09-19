@@ -29,34 +29,34 @@ State how many times the tests were executed for each SIZE (10, 100, 1000 and 10
 SIZE 10
 #1
 
-testArrayListAddRemove:  val1
-testLinkedListAddRemove: val1
-testArrayListAccess:     val1
-testLinkedListAccess:    val1
+testArrayListAddRemove:  326ms
+testLinkedListAddRemove: 21ms
+testArrayListAccess:     26ms
+testLinkedListAccess:    9ms
 
 SIZE 100
 #1
 
-testArrayListAddRemove:  val1
-testLinkedListAddRemove: val1
-testArrayListAccess:     val1
-testLinkedListAccess:    val1
+testArrayListAddRemove:  327ms
+testLinkedListAddRemove: 20ms
+testArrayListAccess:     29ms
+testLinkedListAccess:    21ms
 
 SIZE 1000
 #1
 
-testArrayListAddRemove:  val1
-testLinkedListAddRemove: val1
-testArrayListAccess:     val1
-testLinkedListAccess:    val1
+testArrayListAddRemove:  372ms
+testLinkedListAddRemove: 21ms
+testArrayListAccess:     25ms
+testLinkedListAccess:    265ms
 
 SIZE 10000
 #1
 
-testArrayListAddRemove:  val1
-testLinkedListAddRemove: val1
-testArrayListAccess:     val1
-testLinkedListAccess:    val1
+testArrayListAddRemove:  1sec 286ms
+testLinkedListAddRemove: 21ms
+testArrayListAccess:     29ms
+testLinkedListAccess:    2sec 723ms
 
 listAccess - which type of List is better to use, and why?
 
